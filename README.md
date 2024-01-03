@@ -1,7 +1,7 @@
 My name is Ilya. I'im an programming, cycling and cars enthousiast.
 
 ## Here are some projects I'am working on:
-- [Linba education project](https://apps.apple.com/us/app/linba-английский-язык/id1597825365). An english learning app based on FSRS algorithm.
+- [Linba education project](https://apps.apple.com/us/app/linba-английский-язык/id1597825365). An english learning app based on FSRS algorithm. Some parts of the app [is available in open-source](https://github.com/LinbaTeam/doctrina-core)
 - Overdrive car enthousiast project. Currently in suspended state, but I'm waiting to come back to work on it.
 - For the past 5 years I've been working on a build system with distributed builds based on chromium&ninja. Is intended to be open-source sometime in the future.
 
